@@ -1,11 +1,21 @@
-This modification adapts the Voron Trident R2 for 9mm wide belts, improving belt tracking and reducing maintenance requirements.
+Voron Trident R2 – 9mm Belt Mod
 
-Key changes:
+⚠️ UNTESTED RELEASE
 
-M5 heat-set inserts replaced with standard M5 nuts for easier sourcing and assembly
+This modification enables 9mm belt usage on the Voron Trident R2. All parts are designed and ready for printing, but have not yet been assembled or tested on a physical machine.
 
-Belt tensioners redesigned for optimal 9mm belt tensioning
+Changes:
 
-A-side stepper motor orientation flipped to accommodate the wider belt path
+M5 nuts replace heat-set inserts
+
+Modified belt tensioners
+
+A-side stepper motor flipped
+
+Reinforced structural parts
+
+Status: 🔴 Untested – use at your own discretion.
+
+Pull requests and test results are highly appreciated!
 
 <img width="1455" height="809" alt="r2" src="https://github.com/user-attachments/assets/2d5292de-1e4f-4fee-af01-762f499c78c6" />
